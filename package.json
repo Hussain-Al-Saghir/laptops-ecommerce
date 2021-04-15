@@ -1,0 +1,24 @@
+{
+  "name": "laptops-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussain-Al-Saghir/laptops-platform.git"
+  },
+  "author": "TarekAlhalabi&HussinAlsaghir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hussain-Al-Saghir/laptops-platform/issues"
+  },
+  "homepage": "https://github.com/Hussain-Al-Saghir/laptops-platform#readme",
+  "dependencies": {
+    "@morteza-jamali/lineicons": "^2.0.1",
+    "bootstrap-v4-rtl": "^4.6.0-2",
+    "jquery": "^3.6.0"
+  }
+}
